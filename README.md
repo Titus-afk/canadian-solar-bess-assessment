@@ -40,14 +40,10 @@ Follow these steps to set up the project locally:
 1. Clone the repository:
 
    ```bash
-   git clone repo-url
+   git clone https://github.com/Titus-afk/canadian-solar-bess-assessment.git
    ```
 
 2. Navigate to the project folder:
-
-   ```bash
-   cd candian-solar
-   ```
 
 3. Install the required dependencies:
 
